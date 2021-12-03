@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alicia-VP, a trans(?)-gal.
+- 👀 I’m interested in general development, and do a bunch of random things as inspiration strikes.
+- 🌱 I’m currently learning too many things! But the current focus is discord API for Java
+- 💞️ I’m looking to collaborate on (will disclose later)
+- 📫 How to reach me: Here, or do not
